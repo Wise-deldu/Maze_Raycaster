@@ -30,4 +30,4 @@ $ gcc -Wall -Werror -Wextra -pedantic ./src/*.c -lm -o maze `sdl2-config --cflag
 
 ## Author :black_nib:
 
-- **Wise Duho** <[deldu](https://github.com/Wise-deldu)>
+- **Wise D. Duho** <[deldu](https://github.com/Wise-deldu)>
